@@ -110,7 +110,3 @@ License
 This project is licensed under the MIT License.
 
 ---
-
-If you want, I can also **enhance this README with badges, color-coded JSON example, and a CLI screenshot section**, making it more visually appealing for GitHub. This can really make it stand out.  
-
-Do you want me to do that?
