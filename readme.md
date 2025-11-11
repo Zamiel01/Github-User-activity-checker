@@ -1,5 +1,7 @@
 # GitHub User Activity CLI
 
+#Project url: https://roadmap.sh/projects/github-user-activity
+
 A simple command-line tool to fetch and display GitHub user activity in a readable JSON format. This script checks if a GitHub username exists before fetching the user’s latest public events.
 
 ---
@@ -79,6 +81,8 @@ The response is formatted as JSON with indentation for readability.
 
 
 If the username does not exist, the script exits with a friendly message.
+
+
 
 
 
